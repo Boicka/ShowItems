@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 1/05/2021, 04:04:10 PM
-    Author     : serio
+    Author     : Hector Medel Negrete
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
